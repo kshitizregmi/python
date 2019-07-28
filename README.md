@@ -1,0 +1,10 @@
+## References
+1. [TutorialsPoint](https://www.tutorialspoint.com/python3/)
+2. [Variable Types](https://www.tutorialspoint.com/python3/python_variable_types.htm)
+3. [Decision Making ](https://www.tutorialspoint.com/python3/python_decision_making.htm)
+4. [Python Operators](https://www.programiz.com/python-programming/operators)
+5. [Python if...else Statement](https://www.programiz.com/python-programming/if-elif-else)
+6. [While loop](https://www.tutorialspoint.com/python/python_while_loop.htm)
+7. [For Loops](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
+8. [Function](https://www.tutorialspoint.com/python/python_functions.htm)
+9. [Socket Programming in Python](https://www.geeksforgeeks.org/socket-programming-python/)
